@@ -1,0 +1,3 @@
+# Estas entrando a un lugar prohibido :(
+User-agent: *
+Disallow: facturas.txt

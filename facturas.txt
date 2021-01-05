@@ -1,0 +1,5 @@
+Expenses
+Internet,$53.35
+Entertainment,$42.08
+Lodging,$2.76
+Transportation,$4
